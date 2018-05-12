@@ -1,4 +1,8 @@
 _repo: Agua-de-Nieve_47388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47388-h/images/cover.jpg
 creator:
   author:
     agent_name: Espina, Concha
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Concha_Espina
     - http://es.wikipedia.org/wiki/Concha_Espina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47388#Agua-de-Nieve
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
